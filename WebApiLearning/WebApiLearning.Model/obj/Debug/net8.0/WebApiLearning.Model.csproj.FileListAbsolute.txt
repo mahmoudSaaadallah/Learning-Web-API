@@ -1,0 +1,14 @@
+G:\c#Project\WebApiLearning\WebApiLearning.Model\bin\Debug\net8.0\WebApiLearning.Model.deps.json
+G:\c#Project\WebApiLearning\WebApiLearning.Model\bin\Debug\net8.0\WebApiLearning.Model.dll
+G:\c#Project\WebApiLearning\WebApiLearning.Model\bin\Debug\net8.0\WebApiLearning.Model.pdb
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.AssemblyInfoInputs.cache
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.AssemblyInfo.cs
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.csproj.CoreCompileInputs.cache
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.dll
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\refint\WebApiLearning.Model.dll
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.pdb
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\ref\WebApiLearning.Model.dll
+G:\c#Project\WebApiLearning\WebApiLearning.Model\bin\Debug\net8.0\WebApiLearning.Model.runtimeconfig.json
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.csproj.AssemblyReference.cache
+G:\c#Project\WebApiLearning\WebApiLearning.Model\obj\Debug\net8.0\WebApiLearning.Model.genruntimeconfig.cache

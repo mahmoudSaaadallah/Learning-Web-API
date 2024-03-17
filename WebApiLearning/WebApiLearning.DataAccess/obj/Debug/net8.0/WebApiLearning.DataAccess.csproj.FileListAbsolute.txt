@@ -1,0 +1,17 @@
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\bin\Debug\net8.0\WebApiLearning.DataAccess.deps.json
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\bin\Debug\net8.0\WebApiLearning.DataAccess.dll
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\bin\Debug\net8.0\WebApiLearning.DataAccess.pdb
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.AssemblyInfoInputs.cache
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.AssemblyInfo.cs
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.csproj.CoreCompileInputs.cache
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.dll
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\refint\WebApiLearning.DataAccess.dll
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.pdb
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\ref\WebApiLearning.DataAccess.dll
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.csproj.AssemblyReference.cache
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\bin\Debug\net8.0\WebApiLearning.DataAccess.runtimeconfig.json
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\bin\Debug\net8.0\WebApiLearning.Model.dll
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\bin\Debug\net8.0\WebApiLearning.Model.pdb
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.csproj.CopyComplete
+G:\c#Project\WebApiLearning\WebApiLearning.DataAccess\obj\Debug\net8.0\WebApiLearning.DataAccess.genruntimeconfig.cache
